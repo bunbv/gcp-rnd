@@ -1,2 +1,2 @@
 # gcp-rnd
-GCP manage infrastructure
+Manage GCP  infrastructure
