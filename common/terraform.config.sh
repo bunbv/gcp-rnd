@@ -2,6 +2,7 @@
 
 #Define Terraform service account
 terraform_user="terraform-iac-pipeline"
+terraform_bucket="tf-state-demo-project"
 
 # Load project onfiguration variables
 source ../common/project.config.sh
